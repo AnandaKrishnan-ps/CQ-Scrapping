@@ -17,6 +17,16 @@ The primary aim of this project is educational. It serves as a demonstration of 
 | CodeChef | [codechef.com](https://www.codechef.com/) | YES |
 | InterviewBit | [interviewbit.com](https://www.interviewbit.com/practice/) | YES |
 
+### 🔧  Used Third Party Packages:
+| Package | pip install command |
+| ------ | ------ |
+| Requests | [pip install requests](https://pypi.org/project/requests/) |
+| Beautiful Soup | [pip install beautifulsoup4](https://pypi.org/project/beautifulsoup4/) |
+| Playwright | [pip install playwright](https://pypi.org/project/playwright/) |
+| JS Beautifier | [pip install jsbeautifier](https://pypi.org/project/jsbeautifier/) |
+| Boto3 | [pip install boto3](https://pypi.org/project/boto3/) |
+
+
 ### 🔧 Getting Started:
 To explore the functionality of these scripts and understand the process of API scraping, follow these steps:
 - Clone the Repository: Clone this repository to your local machine using Git.
