@@ -11,7 +11,6 @@ from typing import List, Dict, Tuple, Optional
 from bs4 import BeautifulSoup
 import re
 import jsbeautifier
-import httpx
 
 def global_vars():
     """
