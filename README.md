@@ -12,7 +12,7 @@ The primary aim of this project is educational. It serves as a demonstration of 
 ### 🌟 Currently Supported Platforms:
 | Website | Link | Requires Login |
 | ------ | ------ | ------ |
-| Leetcode | [leetcode.com](https://leetcode.com/) | YES |
+| Leetcode | [leetcode.com](https://leetcode.com/) | NO |
 | Geeks for Geeks | [geeksforgeeks.org](https://www.geeksforgeeks.org/) | YES |
 | CodeChef | [codechef.com](https://www.codechef.com/) | YES |
 | InterviewBit | [interviewbit.com](https://www.interviewbit.com/practice/) | YES |
