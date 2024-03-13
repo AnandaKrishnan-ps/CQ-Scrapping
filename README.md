@@ -16,6 +16,7 @@ The primary aim of this project is educational. It serves as a demonstration of 
 | Geeks for Geeks | [geeksforgeeks.org](https://www.geeksforgeeks.org/) | YES |
 | CodeChef | [codechef.com](https://www.codechef.com/) | YES |
 | InterviewBit | [interviewbit.com](https://www.interviewbit.com/practice/) | YES |
+| Techie Delight | [techiedelight.com](https://www.techiedelight.com/) | NO |
 
 ### 🔧  Used Third Party Packages:
 | Package | pip install command |
